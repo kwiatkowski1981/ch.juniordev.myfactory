@@ -6,7 +6,7 @@ public class Employee {
 
     String name;
     String lastName;
-    int personalNumber; // 2082
+    static int PERSONALNUMBER; // 2082
     int starz;  // angestellt seit
     String function;  // ma/ einrichter/ schichtfuhrer
     String abateilung;  // Stanzerei / fremdabteilung / student /
