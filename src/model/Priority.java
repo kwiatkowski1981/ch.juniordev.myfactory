@@ -1,4 +1,4 @@
-package resorces;
+package model;
 
 public class Priority {
 }

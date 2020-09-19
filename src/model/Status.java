@@ -1,5 +1,6 @@
-package resorces;
+package model;
 import numbers.Numbers;
+import resorces.Machine;
 
 
 public class Status {
