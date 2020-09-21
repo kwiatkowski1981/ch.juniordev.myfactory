@@ -4,15 +4,15 @@ import model.Shift;
 
 public class Employee {
 
-    String name;
-    String lastName;
-    static int PERSONALNUMBER; // 2082
-    int starz;  // angestellt seit
-    String function;  // ma/ einrichter/ schichtfuhrer
-    String abateilung;  // Stanzerei / fremdabteilung / student /
-    String filiale;  // CH1 / CH2
-    Shift shiftLength;  // 7h / 8.5h
-    Team team;
+   private String name;
+   private String lastName;
+   private int personalNumber; // 2082
+   private int employedSince;  // angestellt seit
+   private String function;  // ma/ einrichter/ schichtfuhrer
+   private String department;  // Stanzerei / fremdabteilung / student /
+   private String branch;  // CH1 / CH2
+   private Shift shiftLength;  // 7h / 8.5h
+   private Team team;
 
 
 }
